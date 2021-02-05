@@ -4,7 +4,7 @@
 # AutoBuild Actions
 
 Diy_Core() {
-	Author="281677160"
+	Author="Datout"
 	Default_Device="x86-64"
 	Updete_firmware="combined.img.gz"
 	Extension=".img.gz"
