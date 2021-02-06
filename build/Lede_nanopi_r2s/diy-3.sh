@@ -5,7 +5,7 @@
 
 Diy_Core() {
 	Author="Datout"
-	Default_Device="x86-64"
+	Default_Device="rockchip_armv8"
 	Updete_firmware="combined.img.gz"
 	Extension=".img.gz"
 	Source="lede"
