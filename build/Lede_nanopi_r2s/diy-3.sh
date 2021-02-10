@@ -6,7 +6,7 @@
 Diy_Core() {
 	Author="Datout"
 	Default_Device="rockchip_armv8"
-	Updete_firmware="squashfs-sysupgrade.img.gz"
+	Updete_firmware="ext4-sysupgrade.img.gz"
 	Extension=".img.gz"
 	Source="lede"
 }
